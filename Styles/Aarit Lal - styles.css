@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #00aeff;
+    height: 100px;
+    margin-bottom: 30px;
+    text-align: left;
+    width: 100%;
+}
+
+.logo {
+    padding: 5px 50px;
+    width: 200px;
+}
+
+nav {
+    color: white;
+    float: right;
+    padding: 40px 50px 0px 0px;
+}
+
+.hero-img {
+    width: 800px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.button {
+    color: #003b63; 
+    font-size: 19px;    
+    margin: 30px 5px;
+    padding: 15px 15px;
+}
+
+footer {
+    background-color: #ed107f;
+    color: white;
+    margin-top: 40px;
+    padding: 30px 0px;
+}
+
+
+
+
